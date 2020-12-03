@@ -6,6 +6,7 @@
     
     theImages[0] = 'honkthirst.jpg'
     theImages[1] = 'honkthirst2.jpg'
+    theImages[1] = 'honkthirst3.jpg'
     
     // ======================================
     // do not change anything below this line
